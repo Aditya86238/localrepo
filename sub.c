@@ -1,1 +1,1 @@
-// thi sis going to be a substaction c file
+// this is going to be a substaction c file
